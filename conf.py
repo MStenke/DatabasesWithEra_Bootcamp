@@ -19,8 +19,8 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Nutanix Technology Bootcamp'
-copyright = '2019, Nutanix Germany GmbH | '
+project = 'Nutanix ERA Lab Guide'
+copyright = '2020, Nutanix Germany GmbH | '
 author = 'Martin Stenke'
 
 
